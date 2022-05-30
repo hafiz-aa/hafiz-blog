@@ -1,0 +1,33 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "welcome to my blog",
+      "body": "My name is Muhammad Hafiz, a consulting professional graduated from Universitas Gadjah Mada as bachelor of Computer Science. I am able to analyze business requirements and develop solutions with best practices of data warehouse concepts. Also experienced in using SSRS (SQL Server Reporting Services) and ERP (Enterprise Resource Planning) software. Worked in a high volume production environment, as well as small agile teams. Able to apply the Agile approach on projects and willing to adapt new methodology.",
+      "tags": [
+        "blog",
+        "profile",
+        "news"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "top 5 CSS tips",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "tags": [
+        "css",
+        "webdev",
+        "coding"
+      ]
+    },
+    {
+      "title": "Coba",
+      "body": "Add content",
+      "tags": [
+        "html",
+        "css"
+      ],
+      "id": 3
+    }
+  ]
+}
